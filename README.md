@@ -1,2 +1,2 @@
 # ICS-UPYthonecode
-this will have my python snippets
+A collection of python snippets
